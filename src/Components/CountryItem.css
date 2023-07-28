@@ -1,0 +1,21 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #f1f5f9;
+  border-bottom: none;
+  border-right: none;
+  padding: 10px;
+}
+
+.para {
+  color: white;
+}
+
+.visit {
+  background-color: #3b82f6;
+  height: 35px;
+  width: 60px;
+  border: none;
+  border-radius: 7px;
+  color: white;
+}

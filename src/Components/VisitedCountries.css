@@ -1,0 +1,23 @@
+.container {
+  background-color: #161624;
+
+  width: 100vw;
+  padding-top: 10px;
+}
+
+.item-container {
+  list-style-type: none;
+  height: 50vh;
+  overflow: auto;
+}
+
+.head {
+  color: white;
+}
+
+.bottom-container {
+  list-style-type: none;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+}
